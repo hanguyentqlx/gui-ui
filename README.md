@@ -38,3 +38,10 @@ mobile/
 admin/
   products.webp
 ```
+
+### Admin tabs
+- [Danh mục](admin/category.svg)
+- [Mã linh kiện](admin/component-codes.svg)
+- [Trường thông số](admin/specification-fields.svg)
+- [Sản phẩm](admin/products-list.svg)
+- [Theo dõi click](admin/click-tracking.svg)
