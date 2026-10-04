@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024">
+  <defs>
+    <linearGradient id="hero" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/><stop offset="1" stop-color="#dcecff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#1177ff"/><stop offset="1" stop-color="#005eea"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0b3f84" flood-opacity=".10"/></filter>
+    <style>
+      .bg{fill:#f6f9fd}.card{fill:#fff;stroke:#dbe7f6;stroke-width:1}.muted{fill:#6f82a4}
+      .nav{font:600 14px Arial,sans-serif;fill:#0b1b45}.h1{font:800 42px Arial,sans-serif;fill:#08183f}
+      .h2{font:800 24px Arial,sans-serif;fill:#0b1b45}.h3{font:700 16px Arial,sans-serif;fill:#0b1b45}
+      .body{font:400 15px Arial,sans-serif;fill:#4e6387}.small{font:400 12px Arial,sans-serif;fill:#6880a4}
+      .price{font:800 18px Arial,sans-serif;fill:#ff2d20}.blue{fill:#0b72ff}.blueText{fill:#0b72ff}
+      .pill{fill:#eef5ff;stroke:#d8e7fb}.line{stroke:#e6eef8;stroke-width:1}
+    </style>
+  </defs><rect width="1440" height="1024" class="bg"/>
+    <rect x="0" y="0" width="1440" height="72" fill="#fff"/>
+    <rect x="42" y="16" width="40" height="40" rx="11" fill="url(#blue)"/><text x="96" y="43" class="h3">timlinhkien.com</text>
+    <text x="330" y="43" class="nav">Danh mục</text><text x="440" y="43" class="nav">So sánh giá</text>
+    <text x="560" y="43" class="nav">Kiến thức</text><text x="665" y="43" class="nav">Cộng đồng</text>
+    <circle cx="1290" cy="36" r="18" fill="#eef5ff"/><text x="1283" y="42" class="nav">⌕</text>
+    <rect x="1332" y="14" width="82" height="44" rx="14" fill="url(#blue)"/><text x="1349" y="42" style="font:600 13px Arial;fill:#fff">Đăng nhập</text>
+  <rect x="34" y="96" width="250" height="850" rx="24" class="card"/><circle cx="159" cy="178" r="52" fill="#dce9ff"/><circle cx="159" cy="164" r="18" fill="#819bd0"/><path d="M120 210c12-36 66-36 78 0" fill="#819bd0"/>
+  <text x="159" y="256" text-anchor="middle" class="h2">Nguyễn Văn A</text><text x="159" y="284" text-anchor="middle" class="small">nguyenvana@gmail.com</text>
+  <rect x="52" y="330" width="214" height="54" rx="14" fill="#eaf3ff"/><text x="86" y="364" class="nav blueText">⌂  Tổng quát</text>
+  <text x="72" y="432" class="nav">♡  Danh sách đã lưu</text><text x="72" y="492" class="nav">⚙  Cài đặt tài khoản</text><line x1="58" y1="540" x2="258" y2="540" class="line"/><text x="72" y="600" style="font:600 14px Arial;fill:#ff2d20">↪  Đăng xuất</text>
+  <rect x="316" y="96" width="1090" height="218" rx="26" fill="url(#hero)"/><text x="356" y="160" class="h1">Xin chào,</text><text x="356" y="210" class="h1">Nguyễn Văn A 👋</text><text x="356" y="246" class="body">Quản lý sản phẩm yêu thích và thông tin tài khoản của bạn.</text>
+  <rect x="1050" y="118" width="280" height="168" rx="28" fill="#0c294a"/><rect x="1126" y="158" width="132" height="90" rx="18" fill="#c7ccd3"/>
+  <text x="316" y="366" class="h2">Tổng quát</text><rect x="316" y="392" width="340" height="138" rx="20" class="card"/><circle cx="374" cy="460" r="32" fill="#eaf3ff"/><text x="364" y="470" style="font:700 26px Arial;fill:#0b72ff">♡</text><text x="426" y="450" class="h2">12</text><text x="426" y="482" class="body">Sản phẩm đã lưu</text><rect x="678" y="392" width="340" height="138" rx="20" class="card"/><circle cx="736" cy="460" r="32" fill="#eaf3ff"/><text x="726" y="470" style="font:700 26px Arial;fill:#0b72ff">⇄</text><text x="788" y="450" class="h2">5</text><text x="788" y="482" class="body">Bộ so sánh đã lưu</text><rect x="1040" y="392" width="340" height="138" rx="20" class="card"/><circle cx="1098" cy="460" r="32" fill="#eaf3ff"/><text x="1088" y="470" style="font:700 26px Arial;fill:#0b72ff">◉</text><text x="1150" y="450" class="h2">28</text><text x="1150" y="482" class="body">Sản phẩm đã xem</text><text x="316" y="590" class="h2">Sản phẩm đã lưu gần đây</text><g filter="url(#shadow)"><rect x="316" y="626" width="194" height="276" rx="18" class="card"/></g>
+    <rect x="332" y="642" width="162" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="358" y="664" width="110" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="368" y="674" width="90" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="332" y="786" class="h3">ESP32 WROOM-32</text>
+    <text x="332" y="810" class="small">★ 4.9 · đã lưu</text>
+    <text x="332" y="836" class="price">32.000đ</text>
+    <text x="332" y="858" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="526" y="626" width="194" height="276" rx="18" class="card"/></g>
+    <rect x="542" y="642" width="162" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="568" y="664" width="110" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="578" y="674" width="90" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="542" y="786" class="h3">Arduino UNO R3</text>
+    <text x="542" y="810" class="small">★ 4.9 · đã lưu</text>
+    <text x="542" y="836" class="price">89.000đ</text>
+    <text x="542" y="858" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="736" y="626" width="194" height="276" rx="18" class="card"/></g>
+    <rect x="752" y="642" width="162" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="778" y="664" width="110" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="788" y="674" width="90" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="752" y="786" class="h3">Pin 18650</text>
+    <text x="752" y="810" class="small">★ 4.9 · đã lưu</text>
+    <text x="752" y="836" class="price">28.000đ</text>
+    <text x="752" y="858" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="946" y="626" width="194" height="276" rx="18" class="card"/></g>
+    <rect x="962" y="642" width="162" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="988" y="664" width="110" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="998" y="674" width="90" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="962" y="786" class="h3">DHT11</text>
+    <text x="962" y="810" class="small">★ 4.9 · đã lưu</text>
+    <text x="962" y="836" class="price">15.000đ</text>
+    <text x="962" y="858" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="1156" y="626" width="194" height="276" rx="18" class="card"/></g>
+    <rect x="1172" y="642" width="162" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="1198" y="664" width="110" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="1208" y="674" width="90" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="1172" y="786" class="h3">OLED 0.96”</text>
+    <text x="1172" y="810" class="small">★ 4.9 · đã lưu</text>
+    <text x="1172" y="836" class="price">25.000đ</text>
+    <text x="1172" y="858" class="small">Từ 6 shop</text></svg>
