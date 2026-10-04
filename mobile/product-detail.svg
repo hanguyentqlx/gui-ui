@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="932" viewBox="0 0 430 932">
+  <defs>
+    <linearGradient id="hero" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/><stop offset="1" stop-color="#dcecff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#1177ff"/><stop offset="1" stop-color="#005eea"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0b3f84" flood-opacity=".10"/></filter>
+    <style>
+      .bg{fill:#f6f9fd}.card{fill:#fff;stroke:#dbe7f6;stroke-width:1}.muted{fill:#6f82a4}
+      .nav{font:600 14px Arial,sans-serif;fill:#0b1b45}.h1{font:800 42px Arial,sans-serif;fill:#08183f}
+      .h2{font:800 24px Arial,sans-serif;fill:#0b1b45}.h3{font:700 16px Arial,sans-serif;fill:#0b1b45}
+      .body{font:400 15px Arial,sans-serif;fill:#4e6387}.small{font:400 12px Arial,sans-serif;fill:#6880a4}
+      .price{font:800 18px Arial,sans-serif;fill:#ff2d20}.blue{fill:#0b72ff}.blueText{fill:#0b72ff}
+      .pill{fill:#eef5ff;stroke:#d8e7fb}.line{stroke:#e6eef8;stroke-width:1}
+    </style>
+  </defs><rect width="430" height="932" class="bg"/>
+      <rect x="0" y="0" width="430" height="74" fill="#fff"/>
+      <rect x="22" y="18" width="38" height="38" rx="10" fill="url(#blue)"/><text x="72" y="44" class="h3">timlinhkien.com</text>
+      <circle cx="338" cy="37" r="18" fill="#eef5ff"/><text x="331" y="43" class="nav">⌕</text>
+      <circle cx="384" cy="37" r="18" fill="#eef5ff"/><text x="378" y="43" class="nav">●</text><rect x="18" y="94" width="394" height="300" rx="24" fill="#eaf3ff"/><rect x="84" y="136" width="262" height="204" rx="28" fill="#152b49"/><rect x="132" y="174" width="166" height="116" rx="20" fill="#c8ccd3"/>
+  <text x="18" y="436" class="h2">ESP32 WROOM-32</text><text x="18" y="464" class="body">Module WiFi + Bluetooth cho IoT</text><text x="18" y="496" class="small">★★★★★ 4.9 · 1.2k đánh giá · Đã bán 12.3k</text><text x="18" y="536" class="price" style="font-size:30px">32.000đ</text>
+  <text x="18" y="590" class="h2">Chọn nơi mua</text><rect x="18" y="616" width="394" height="46" rx="14" class="card"/><text x="36" y="644" class="h3">Shop ABC</text><text x="250" y="644" class="price">32.000đ</text><text x="355" y="644" class="small blueText">Xem</text><rect x="18" y="670" width="394" height="46" rx="14" class="card"/><text x="36" y="698" class="h3">Shop XYZ</text><text x="250" y="698" class="price">34.000đ</text><text x="355" y="698" class="small blueText">Xem</text><rect x="18" y="724" width="394" height="46" rx="14" class="card"/><text x="36" y="752" class="h3">Shop DEF</text><text x="250" y="752" class="price">35.000đ</text><text x="355" y="752" class="small blueText">Xem</text><rect x="18" y="778" width="394" height="46" rx="14" class="card"/><text x="36" y="806" class="h3">Tiki</text><text x="250" y="806" class="price">36.000đ</text><text x="355" y="806" class="small blueText">Xem</text><rect x="18" y="832" width="394" height="46" rx="14" class="card"/><text x="36" y="860" class="h3">Lazada</text><text x="250" y="860" class="price">38.000đ</text><text x="355" y="860" class="small blueText">Xem</text><rect x="18" y="894" width="394" height="24" rx="12" fill="url(#blue)"/></svg>
