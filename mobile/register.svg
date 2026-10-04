@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="932" viewBox="0 0 430 932">
+  <defs>
+    <linearGradient id="hero" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/><stop offset="1" stop-color="#dcecff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#1177ff"/><stop offset="1" stop-color="#005eea"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0b3f84" flood-opacity=".10"/></filter>
+    <style>
+      .bg{fill:#f6f9fd}.card{fill:#fff;stroke:#dbe7f6;stroke-width:1}.muted{fill:#6f82a4}
+      .nav{font:600 14px Arial,sans-serif;fill:#0b1b45}.h1{font:800 42px Arial,sans-serif;fill:#08183f}
+      .h2{font:800 24px Arial,sans-serif;fill:#0b1b45}.h3{font:700 16px Arial,sans-serif;fill:#0b1b45}
+      .body{font:400 15px Arial,sans-serif;fill:#4e6387}.small{font:400 12px Arial,sans-serif;fill:#6880a4}
+      .price{font:800 18px Arial,sans-serif;fill:#ff2d20}.blue{fill:#0b72ff}.blueText{fill:#0b72ff}
+      .pill{fill:#eef5ff;stroke:#d8e7fb}.line{stroke:#e6eef8;stroke-width:1}
+    </style>
+  </defs><rect width="430" height="932" class="bg"/>
+      <rect x="0" y="0" width="430" height="74" fill="#fff"/>
+      <rect x="22" y="18" width="38" height="38" rx="10" fill="url(#blue)"/><text x="72" y="44" class="h3">timlinhkien.com</text>
+      <circle cx="338" cy="37" r="18" fill="#eef5ff"/><text x="331" y="43" class="nav">⌕</text>
+      <circle cx="384" cy="37" r="18" fill="#eef5ff"/><text x="378" y="43" class="nav">●</text><text x="30" y="120" class="h1" style="font-size:36px">Đăng ký</text><text x="30" y="156" class="body">Tạo tài khoản timlinhkien.com</text><rect x="276" y="94" width="118" height="86" rx="22" fill="url(#hero)"/><rect x="306" y="116" width="58" height="40" rx="10" fill="#1d2e4c"/><text x="30" y="198" class="h3">Họ và tên</text><rect x="30" y="212" width="370" height="54" rx="16" class="card"/><text x="52" y="245" class="muted" style="font:14px Arial">Nhập họ và tên của bạn</text><text x="30" y="292" class="h3">Email</text><rect x="30" y="306" width="370" height="54" rx="16" class="card"/><text x="52" y="339" class="muted" style="font:14px Arial">Nhập email của bạn</text><text x="30" y="386" class="h3">Mật khẩu</text><rect x="30" y="400" width="370" height="54" rx="16" class="card"/><text x="52" y="433" class="muted" style="font:14px Arial">Nhập mật khẩu của bạn</text><text x="30" y="480" class="h3">Xác nhận mật khẩu</text><rect x="30" y="494" width="370" height="54" rx="16" class="card"/><text x="52" y="527" class="muted" style="font:14px Arial">Nhập xác nhận mật khẩu của bạn</text><rect x="30" y="582" width="370" height="58" rx="18" fill="url(#blue)"/><text x="215" y="618" text-anchor="middle" style="font:700 17px Arial;fill:#fff">Đăng ký</text>
+  <text x="215" y="674" text-anchor="middle" class="small">hoặc</text><rect x="30" y="694" width="370" height="54" rx="16" class="card"/><text x="215" y="727" text-anchor="middle" class="h3">G  Đăng ký với Google</text>
+  <text x="215" y="782" text-anchor="middle" class="small blueText">Đã có tài khoản? Đăng nhập ngay</text></svg>
