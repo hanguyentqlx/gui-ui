@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024">
+  <defs>
+    <linearGradient id="hero" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/><stop offset="1" stop-color="#dcecff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#1177ff"/><stop offset="1" stop-color="#005eea"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0b3f84" flood-opacity=".10"/></filter>
+    <style>
+      .bg{fill:#f6f9fd}.card{fill:#fff;stroke:#dbe7f6;stroke-width:1}.muted{fill:#6f82a4}
+      .nav{font:600 14px Arial,sans-serif;fill:#0b1b45}.h1{font:800 42px Arial,sans-serif;fill:#08183f}
+      .h2{font:800 24px Arial,sans-serif;fill:#0b1b45}.h3{font:700 16px Arial,sans-serif;fill:#0b1b45}
+      .body{font:400 15px Arial,sans-serif;fill:#4e6387}.small{font:400 12px Arial,sans-serif;fill:#6880a4}
+      .price{font:800 18px Arial,sans-serif;fill:#ff2d20}.blue{fill:#0b72ff}.blueText{fill:#0b72ff}
+      .pill{fill:#eef5ff;stroke:#d8e7fb}.line{stroke:#e6eef8;stroke-width:1}
+    </style>
+  </defs><rect width="1440" height="1024" class="bg"/>
+    <rect x="0" y="0" width="1440" height="72" fill="#fff"/>
+    <rect x="42" y="16" width="40" height="40" rx="11" fill="url(#blue)"/><text x="96" y="43" class="h3">timlinhkien.com</text>
+    <text x="330" y="43" class="nav">Danh mục</text><text x="440" y="43" class="nav">So sánh giá</text>
+    <text x="560" y="43" class="nav">Kiến thức</text><text x="665" y="43" class="nav">Cộng đồng</text>
+    <circle cx="1290" cy="36" r="18" fill="#eef5ff"/><text x="1283" y="42" class="nav">⌕</text>
+    <rect x="1332" y="14" width="82" height="44" rx="14" fill="url(#blue)"/><text x="1349" y="42" style="font:600 13px Arial;fill:#fff">Đăng nhập</text>
+  <rect x="34" y="88" width="1372" height="348" rx="28" fill="url(#hero)"/>
+  <text x="72" y="160" class="h1">Tìm linh kiện điện tử</text><text x="72" y="210" class="h1 blueText">nhanh và chính xác</text>
+  <text x="72" y="248" class="body">So sánh giá từ nhiều shop, tìm đúng linh kiện bạn cần.</text>
+  <rect x="72" y="284" width="710" height="58" rx="22" fill="#fff" stroke="#d7e5f7"/><text x="96" y="319" class="muted" style="font:15px Arial">Ví dụ: ESP32, LM2596, OLED, cảm biến...</text>
+  <rect x="700" y="290" width="74" height="46" rx="16" fill="url(#blue)"/><text x="732" y="320" style="font:700 18px Arial;fill:#fff">⌕</text>
+  <rect x="930" y="126" width="330" height="220" rx="30" fill="#102845"/><rect x="1015" y="180" width="160" height="108" rx="22" fill="#c8ccd3"/><rect x="995" y="165" width="200" height="138" rx="28" fill="none" stroke="#1d79ff" stroke-width="4"/>
+  <text x="1014" y="326" style="font:700 16px Arial;fill:#1a5fcb">ESP32 · dễ tìm · nhiều lựa chọn</text><rect x="52" y="456" width="148" height="112" rx="18" class="card"/><circle cx="126" cy="492" r="22" fill="#dbeaff"/><text x="126" y="536" text-anchor="middle" class="small">Vi điều khiển</text><rect x="220" y="456" width="148" height="112" rx="18" class="card"/><circle cx="294" cy="492" r="22" fill="#dbeaff"/><text x="294" y="536" text-anchor="middle" class="small">Module</text><rect x="388" y="456" width="148" height="112" rx="18" class="card"/><circle cx="462" cy="492" r="22" fill="#dbeaff"/><text x="462" y="536" text-anchor="middle" class="small">Cảm biến</text><rect x="556" y="456" width="148" height="112" rx="18" class="card"/><circle cx="630" cy="492" r="22" fill="#dbeaff"/><text x="630" y="536" text-anchor="middle" class="small">Mạch nguồn</text><rect x="724" y="456" width="148" height="112" rx="18" class="card"/><circle cx="798" cy="492" r="22" fill="#dbeaff"/><text x="798" y="536" text-anchor="middle" class="small">Mạch sạc</text><rect x="892" y="456" width="148" height="112" rx="18" class="card"/><circle cx="966" cy="492" r="22" fill="#dbeaff"/><text x="966" y="536" text-anchor="middle" class="small">Hiển thị</text><rect x="1060" y="456" width="148" height="112" rx="18" class="card"/><circle cx="1134" cy="492" r="22" fill="#dbeaff"/><text x="1134" y="536" text-anchor="middle" class="small">Linh kiện thụ động</text><rect x="1228" y="456" width="148" height="112" rx="18" class="card"/><circle cx="1302" cy="492" r="22" fill="#dbeaff"/><text x="1302" y="536" text-anchor="middle" class="small">Công cụ</text><text x="52" y="624" class="h2">Sản phẩm phổ biến</text><text x="1270" y="624" class="small blueText">Xem tất cả →</text><g filter="url(#shadow)"><rect x="52" y="654" width="206" height="280" rx="18" class="card"/></g>
+    <rect x="68" y="670" width="174" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="94" y="692" width="122" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="104" y="702" width="102" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="68" y="814" class="h3">ESP32 WROOM-32</text>
+    <text x="68" y="838" class="small">★ 4.9 · đã bán nhiều</text>
+    <text x="68" y="864" class="price">32.000đ</text>
+    <text x="68" y="886" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="278" y="654" width="206" height="280" rx="18" class="card"/></g>
+    <rect x="294" y="670" width="174" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="320" y="692" width="122" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="330" y="702" width="102" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="294" y="814" class="h3">Pin 18650 Samsung</text>
+    <text x="294" y="838" class="small">★ 4.9 · đã bán nhiều</text>
+    <text x="294" y="864" class="price">28.000đ</text>
+    <text x="294" y="886" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="504" y="654" width="206" height="280" rx="18" class="card"/></g>
+    <rect x="520" y="670" width="174" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="546" y="692" width="122" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="556" y="702" width="102" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="520" y="814" class="h3">Mạch sạc TP4056</text>
+    <text x="520" y="838" class="small">★ 4.9 · đã bán nhiều</text>
+    <text x="520" y="864" class="price">6.500đ</text>
+    <text x="520" y="886" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="730" y="654" width="206" height="280" rx="18" class="card"/></g>
+    <rect x="746" y="670" width="174" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="772" y="692" width="122" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="782" y="702" width="102" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="746" y="814" class="h3">Arduino UNO R3</text>
+    <text x="746" y="838" class="small">★ 4.9 · đã bán nhiều</text>
+    <text x="746" y="864" class="price">89.000đ</text>
+    <text x="746" y="886" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="956" y="654" width="206" height="280" rx="18" class="card"/></g>
+    <rect x="972" y="670" width="174" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="998" y="692" width="122" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="1008" y="702" width="102" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="972" y="814" class="h3">Cảm biến DHT22</text>
+    <text x="972" y="838" class="small">★ 4.9 · đã bán nhiều</text>
+    <text x="972" y="864" class="price">32.000đ</text>
+    <text x="972" y="886" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="1182" y="654" width="206" height="280" rx="18" class="card"/></g>
+    <rect x="1198" y="670" width="174" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="1224" y="692" width="122" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="1234" y="702" width="102" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="1198" y="814" class="h3">OLED 0.96”</text>
+    <text x="1198" y="838" class="small">★ 4.9 · đã bán nhiều</text>
+    <text x="1198" y="864" class="price">25.000đ</text>
+    <text x="1198" y="886" class="small">Từ 6 shop</text></svg>
