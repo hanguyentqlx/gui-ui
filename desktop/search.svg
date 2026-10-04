@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1024" viewBox="0 0 1440 1024">
+  <defs>
+    <linearGradient id="hero" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/><stop offset="1" stop-color="#dcecff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#1177ff"/><stop offset="1" stop-color="#005eea"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#0b3f84" flood-opacity=".10"/></filter>
+    <style>
+      .bg{fill:#f6f9fd}.card{fill:#fff;stroke:#dbe7f6;stroke-width:1}.muted{fill:#6f82a4}
+      .nav{font:600 14px Arial,sans-serif;fill:#0b1b45}.h1{font:800 42px Arial,sans-serif;fill:#08183f}
+      .h2{font:800 24px Arial,sans-serif;fill:#0b1b45}.h3{font:700 16px Arial,sans-serif;fill:#0b1b45}
+      .body{font:400 15px Arial,sans-serif;fill:#4e6387}.small{font:400 12px Arial,sans-serif;fill:#6880a4}
+      .price{font:800 18px Arial,sans-serif;fill:#ff2d20}.blue{fill:#0b72ff}.blueText{fill:#0b72ff}
+      .pill{fill:#eef5ff;stroke:#d8e7fb}.line{stroke:#e6eef8;stroke-width:1}
+    </style>
+  </defs><rect width="1440" height="1024" class="bg"/>
+    <rect x="0" y="0" width="1440" height="72" fill="#fff"/>
+    <rect x="42" y="16" width="40" height="40" rx="11" fill="url(#blue)"/><text x="96" y="43" class="h3">timlinhkien.com</text>
+    <text x="330" y="43" class="nav">Danh mục</text><text x="440" y="43" class="nav">So sánh giá</text>
+    <text x="560" y="43" class="nav">Kiến thức</text><text x="665" y="43" class="nav">Cộng đồng</text>
+    <circle cx="1290" cy="36" r="18" fill="#eef5ff"/><text x="1283" y="42" class="nav">⌕</text>
+    <rect x="1332" y="14" width="82" height="44" rx="14" fill="url(#blue)"/><text x="1349" y="42" style="font:600 13px Arial;fill:#fff">Đăng nhập</text>
+  <rect x="360" y="88" width="720" height="54" rx="18" fill="#fff" stroke="#d9e5f5"/><text x="390" y="121" class="body">ESP32</text><rect x="1008" y="94" width="64" height="42" rx="14" fill="url(#blue)"/>
+  <rect x="34" y="170" width="280" height="800" rx="22" class="card"/><text x="58" y="208" class="h2">Bộ lọc</text>
+  <text x="58" y="252" class="h3">Khoảng giá</text><rect x="58" y="270" width="98" height="40" rx="10" class="pill"/><rect x="172" y="270" width="98" height="40" rx="10" class="pill"/>
+  <text x="58" y="358" class="h3">Danh mục</text><text x="58" y="390" class="body">☑ Vi điều khiển (328)</text><text x="58" y="420" class="body">☐ Module (98)</text><text x="58" y="450" class="body">☐ Cảm biến (56)</text><text x="58" y="480" class="body">☐ Màn hình (28)</text>
+  <text x="58" y="540" class="h3">Thương hiệu</text><text x="58" y="572" class="body">☐ Espressif</text><text x="58" y="602" class="body">☐ DOIT</text><text x="58" y="632" class="body">☐ Lolin</text>
+  <text x="58" y="696" class="h3">Đánh giá</text><text x="58" y="728" class="body">★★★★★ 4.5+</text><text x="58" y="758" class="body">★★★★☆ 4.0+</text>
+  <text x="350" y="210" class="h2">Kết quả tìm kiếm: “ESP32”</text><text x="350" y="236" class="small">Tìm thấy 1.248 sản phẩm</text>
+  <rect x="350" y="258" width="112" height="38" rx="19" class="blue"/><text x="406" y="281" text-anchor="middle" style="font:600 12px Arial;fill:#fff">Liên quan nhất</text><rect x="474" y="258" width="86" height="38" rx="19" class="pill"/><text x="517" y="281" text-anchor="middle" style="font:600 12px Arial;fill:#35547e">Giá tốt</text><rect x="572" y="258" width="92" height="38" rx="19" class="pill"/><text x="618" y="281" text-anchor="middle" style="font:600 12px Arial;fill:#35547e">Bán nhiều</text><rect x="676" y="258" width="108" height="38" rx="19" class="pill"/><text x="730" y="281" text-anchor="middle" style="font:600 12px Arial;fill:#35547e">Đánh giá cao</text><g filter="url(#shadow)"><rect x="350" y="320" width="236" height="276" rx="18" class="card"/></g>
+    <rect x="366" y="336" width="204" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="392" y="358" width="152" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="402" y="368" width="132" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="366" y="480" class="h3">ESP32 WROOM-32</text>
+    <text x="366" y="504" class="small">★ 4.9 · đã bán 8.2k</text>
+    <text x="366" y="530" class="price">32.000đ</text>
+    <text x="366" y="552" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="604" y="320" width="236" height="276" rx="18" class="card"/></g>
+    <rect x="620" y="336" width="204" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="646" y="358" width="152" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="656" y="368" width="132" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="620" y="480" class="h3">ESP32 DevKit V1</text>
+    <text x="620" y="504" class="small">★ 4.9 · đã bán 8.2k</text>
+    <text x="620" y="530" class="price">55.000đ</text>
+    <text x="620" y="552" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="858" y="320" width="236" height="276" rx="18" class="card"/></g>
+    <rect x="874" y="336" width="204" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="900" y="358" width="152" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="910" y="368" width="132" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="874" y="480" class="h3">ESP32-C3 SuperMini</text>
+    <text x="874" y="504" class="small">★ 4.9 · đã bán 8.2k</text>
+    <text x="874" y="530" class="price">39.000đ</text>
+    <text x="874" y="552" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="1112" y="320" width="236" height="276" rx="18" class="card"/></g>
+    <rect x="1128" y="336" width="204" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="1154" y="358" width="152" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="1164" y="368" width="132" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="1128" y="480" class="h3">ESP32 S3</text>
+    <text x="1128" y="504" class="small">★ 4.9 · đã bán 8.2k</text>
+    <text x="1128" y="530" class="price">65.000đ</text>
+    <text x="1128" y="552" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="350" y="622" width="236" height="276" rx="18" class="card"/></g>
+    <rect x="366" y="638" width="204" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="392" y="660" width="152" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="402" y="670" width="132" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="366" y="782" class="h3">ESP32 CAM</text>
+    <text x="366" y="806" class="small">★ 4.9 · đã bán 8.2k</text>
+    <text x="366" y="832" class="price">45.000đ</text>
+    <text x="366" y="854" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="604" y="622" width="236" height="276" rx="18" class="card"/></g>
+    <rect x="620" y="638" width="204" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="646" y="660" width="152" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="656" y="670" width="132" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="620" y="782" class="h3">Module WiFi ESP32</text>
+    <text x="620" y="806" class="small">★ 4.9 · đã bán 8.2k</text>
+    <text x="620" y="832" class="price">28.000đ</text>
+    <text x="620" y="854" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="858" y="622" width="236" height="276" rx="18" class="card"/></g>
+    <rect x="874" y="638" width="204" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="900" y="660" width="152" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="910" y="670" width="132" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="874" y="782" class="h3">ESP32-C6</text>
+    <text x="874" y="806" class="small">★ 4.9 · đã bán 8.2k</text>
+    <text x="874" y="832" class="price">72.000đ</text>
+    <text x="874" y="854" class="small">Từ 6 shop</text><g filter="url(#shadow)"><rect x="1112" y="622" width="236" height="276" rx="18" class="card"/></g>
+    <rect x="1128" y="638" width="204" height="118" rx="14" fill="#eef5ff"/>
+    <rect x="1154" y="660" width="152" height="62" rx="14" fill="#1e2f4e"/>
+    <rect x="1164" y="670" width="132" height="42" rx="8" fill="#c7ccd4"/>
+    <text x="1128" y="782" class="h3">ESP32 Touch LCD</text>
+    <text x="1128" y="806" class="small">★ 4.9 · đã bán 8.2k</text>
+    <text x="1128" y="832" class="price">145.000đ</text>
+    <text x="1128" y="854" class="small">Từ 6 shop</text><rect x="344" y="930" width="1060" height="58" rx="18" fill="#fff" stroke="#dbe7f6"/><text x="376" y="965" class="h3">Đã chọn 3 sản phẩm để so sánh</text><text x="1190" y="965" class="small blueText">Xóa tất cả</text></svg>
