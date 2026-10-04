@@ -1,17 +1,34 @@
 # timlinhkien.com UI Mockups
 
-Bộ ảnh giao diện desktop và mobile cho timlinhkien.com.
+Bộ giao diện desktop và mobile của timlinhkien.com.
 
 ## Desktop
-- Trang chủ
-- Trang tìm kiếm
-- Trang tổng quát tài khoản
+- [Trang chủ](desktop/home.svg)
+- [Trang tìm kiếm](desktop/search.svg)
+- [Trang profile](desktop/profile.svg)
 
 ## Mobile
-- Trang chủ
-- Trang tìm kiếm
-- Trang chi tiết sản phẩm
-- Đăng nhập
-- Đăng ký
-- Quên mật khẩu
-- Menu profile
+- [Trang chủ](mobile/home.svg)
+- [Trang tìm kiếm](mobile/search.svg)
+- [Trang chi tiết sản phẩm](mobile/product-detail.svg)
+- [Đăng nhập](mobile/login.svg)
+- [Đăng ký](mobile/register.svg)
+- [Quên mật khẩu](mobile/forgot-password.svg)
+- [Menu profile](mobile/profile-menu.svg)
+
+## Cấu trúc
+```
+desktop/
+  home.svg
+  search.svg
+  profile.svg
+
+mobile/
+  home.svg
+  search.svg
+  product-detail.svg
+  login.svg
+  register.svg
+  forgot-password.svg
+  profile-menu.svg
+```
