@@ -6,6 +6,9 @@ Bộ giao diện desktop, mobile và admin của timlinhkien.com.
 - [Trang chủ](desktop/home.svg)
 - [Trang tìm kiếm](desktop/search.svg)
 - [Trang profile](desktop/profile.svg)
+- [Đăng nhập](desktop/login.svg)
+- [Đăng ký](desktop/register.svg)
+- [Quên mật khẩu](desktop/forgot-password.svg)
 
 ## Mobile
 - [Trang chủ](mobile/home.svg)
@@ -25,6 +28,9 @@ desktop/
   home.svg
   search.svg
   profile.svg
+  login.svg
+  register.svg
+  forgot-password.svg
 
 mobile/
   home.svg
