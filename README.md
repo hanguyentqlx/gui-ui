@@ -1,6 +1,6 @@
 # timlinhkien.com UI Mockups
 
-Bộ giao diện desktop và mobile của timlinhkien.com.
+Bộ giao diện desktop, mobile và admin của timlinhkien.com.
 
 ## Desktop
 - [Trang chủ](desktop/home.svg)
@@ -15,6 +15,9 @@ Bộ giao diện desktop và mobile của timlinhkien.com.
 - [Đăng ký](mobile/register.svg)
 - [Quên mật khẩu](mobile/forgot-password.svg)
 - [Menu profile](mobile/profile-menu.svg)
+
+## Admin
+- [Trang quản lý sản phẩm](admin/products.webp)
 
 ## Cấu trúc
 ```
@@ -31,4 +34,7 @@ mobile/
   register.svg
   forgot-password.svg
   profile-menu.svg
+
+admin/
+  products.webp
 ```
