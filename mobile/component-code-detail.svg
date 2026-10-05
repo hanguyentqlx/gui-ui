@@ -1,25 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="430" height="1100" viewBox="0 0 430 1100"><defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8fbff"/><stop offset="1" stop-color="#eef5ff"/></linearGradient>
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="1000" viewBox="0 0 430 1000"><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbfdff"/><stop offset="1" stop-color="#f3f7fc"/></linearGradient>
 <linearGradient id="blue" x1="0" x2="1"><stop stop-color="#1677ff"/><stop offset="1" stop-color="#0567f0"/></linearGradient>
-<filter id="sh"><feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#0b3f84" flood-opacity=".08"/></filter>
 <style>
-.bg{fill:url(#bg)}.card{fill:#fff;stroke:#dfe8f5;stroke-width:1}.h1{font:800 34px Arial;fill:#0b1b45}.h2{font:800 22px Arial;fill:#0b1b45}.h3{font:700 15px Arial;fill:#0b1b45}.body{font:400 14px Arial;fill:#536989}.small{font:400 12px Arial;fill:#7b8daa}.price{font:800 18px Arial;fill:#ff2d20}.blueT{fill:#0b72ff}.greenT{fill:#0fa66c}.line{stroke:#e7eef7;stroke-width:1}.pill{fill:#eef5ff;stroke:#dce8f7}
-</style></defs><rect width="430" height="1100" class="bg"/><rect x="0" y="0" width="430" height="72" fill="#fff"/><rect x="18" y="16" width="40" height="40" rx="10" fill="url(#blue)"/><text x="70" y="42" class="h3">timlinhkien.com</text><circle cx="348" cy="36" r="18" fill="#eef5ff"/><text x="342" y="42" class="h3">⌕</text><circle cx="392" cy="36" r="18" fill="#eef5ff"/><text x="387" y="42" class="h3">☰</text>
+.bg{fill:url(#bg)}.card{fill:#fff;stroke:#dde7f3;stroke-width:1}.h1{font:800 34px Arial;fill:#0b1b45}.h2{font:800 22px Arial;fill:#0b1b45}.h3{font:700 15px Arial;fill:#0b1b45}.body{font:400 14px Arial;fill:#536989}.small{font:400 12px Arial;fill:#7b8daa}.price{font:800 18px Arial;fill:#ff2d20}.blueT{fill:#0b72ff}.line{stroke:#e7eef7;stroke-width:1}
+</style></defs><rect width="430" height="1000" class="bg"/><rect x="0" y="0" width="430" height="72" fill="#fff"/>
+  <rect x="18" y="16" width="40" height="40" rx="10" fill="url(#blue)"/><text x="70" y="42" class="h3">timlinhkien.com</text>
+  <circle cx="348" cy="36" r="18" fill="#eef5ff"/><text x="342" y="42" class="h3">⌕</text>
+  <circle cx="392" cy="36" r="18" fill="#eef5ff"/><text x="387" y="42" class="h3">☰</text>
 <text x="18" y="98" class="small">Trang chủ  ›  Cơ khí  ›  Ốc - Vít - Bulong</text>
-<rect x="18" y="118" width="394" height="250" rx="20" class="card"/><rect x="28" y="128" width="374" height="180" rx="16" fill="#d7c3a4"/><rect x="62" y="200" width="306" height="52" rx="12" fill="#b99d7b"/>
+
+<rect x="18" y="118" width="394" height="250" rx="20" class="card"/>
+<rect x="28" y="128" width="374" height="180" rx="16" fill="#d7c3a4"/>
+<rect x="62" y="200" width="306" height="52" rx="12" fill="#b99d7b"/>
 <g fill="#b6c0cb"><rect x="82" y="210" width="26" height="36" rx="7"/><rect x="116" y="210" width="26" height="36" rx="7"/><rect x="150" y="210" width="26" height="36" rx="7"/><rect x="184" y="210" width="26" height="36" rx="7"/><rect x="218" y="210" width="26" height="36" rx="7"/><rect x="252" y="210" width="26" height="36" rx="7"/><rect x="286" y="210" width="26" height="36" rx="7"/><rect x="320" y="210" width="26" height="36" rx="7"/></g>
 <rect x="28" y="318" width="60" height="42" rx="8" class="card"/><rect x="34" y="324" width="48" height="30" rx="5" fill="#cdb697"/><rect x="102" y="318" width="60" height="42" rx="8" class="card"/><rect x="108" y="324" width="48" height="30" rx="5" fill="#e2d1b8"/><rect x="176" y="318" width="60" height="42" rx="8" class="card"/><rect x="182" y="324" width="48" height="30" rx="5" fill="#e2d1b8"/><rect x="250" y="318" width="60" height="42" rx="8" class="card"/><rect x="256" y="324" width="48" height="30" rx="5" fill="#e2d1b8"/><rect x="324" y="318" width="60" height="42" rx="8" class="card"/><rect x="330" y="324" width="48" height="30" rx="5" fill="#e2d1b8"/>
 
-<text x="18" y="412" class="h2">BÁN LẺ ĐẦU TUÝP KHẨU VẶN ỐC</text><text x="18" y="438" class="body">chân 1/2 8 - 21mm, chân 1/4 5 - 14mm - TOP</text>
+<text x="18" y="412" class="h2">BÁN LẺ ĐẦU TUÝP KHẨU VẶN ỐC</text>
+<text x="18" y="438" class="body">chân 1/2 8 - 21mm, chân 1/4 5 - 14mm - TOP</text>
 <rect x="18" y="460" width="94" height="38" rx="12" class="card"/><text x="65" y="484" text-anchor="middle" class="h3">♡ Lưu</text>
 <rect x="316" y="460" width="96" height="38" rx="12" class="card"/><text x="364" y="484" text-anchor="middle" class="h3">⌘ Chia sẻ</text>
 
-<rect x="18" y="516" width="394" height="164" rx="14" class="card"/><text x="34" y="546" class="h3">Thông số cơ bản</text>
-<text x="34" y="578" class="small">Loại sản phẩm</text><text x="170" y="578" class="h3">Đầu tuýp (khẩu vặn ốc)</text>
-<text x="34" y="606" class="small">Kích thước</text><text x="170" y="606" class="h3">Chân 1/2: 8 - 21mm</text><text x="170" y="630" class="h3">Chân 1/4: 5 - 14mm</text>
-<text x="34" y="658" class="small">Thương hiệu</text><text x="170" y="658" class="h3">TOP</text>
+<rect x="18" y="516" width="394" height="150" rx="14" class="card"/>
+<text x="34" y="546" class="small">Loại sản phẩm</text><text x="170" y="546" class="h3">Đầu tuýp (khẩu vặn ốc)</text>
+<text x="34" y="578" class="small">Kích thước</text><text x="170" y="578" class="h3">Chân 1/2: 8 - 21mm</text><text x="170" y="602" class="h3">Chân 1/4: 5 - 14mm</text>
+<text x="34" y="632" class="small">Thương hiệu</text><text x="170" y="632" class="h3">TOP</text>
+<text x="215" y="654" text-anchor="middle" class="blueT" style="font:700 12px Arial">Xem thêm⌄</text>
 
-<line x1="18" y1="708" x2="412" y2="708" class="line"/><text x="18" y="742" class="h2 blueT">Nơi bán (4)</text><text x="362" y="742" text-anchor="end" class="small">Sắp xếp</text>
-<rect x="18" y="764" width="394" height="154" rx="16" class="card"/><circle cx="48" cy="794" r="18" fill="#ff6b00"/><text x="42" y="800" class="h3" style="fill:#fff">S</text><text x="76" y="788" class="h3">Vật Tư Quang Hồng</text><text x="76" y="808" class="small">⌖ Hà Nội</text><text x="28" y="836" class="small">Phân loại của shop</text><rect x="28" y="844" width="108" height="46" rx="10" fill="#edf5ff" stroke="#0b72ff"/><text x="82" y="863" text-anchor="middle" class="h3 blueT" style="font-size:12px">1/2 - 8mm</text><text x="82" y="880" text-anchor="middle" class="small blueT" style="font-weight:700">25.000đ</text><rect x="144" y="844" width="108" height="46" rx="10" fill="#fff" stroke="#dfe8f5"/><text x="198" y="863" text-anchor="middle" class="h3" style="font-size:12px">1/2 - 10mm</text><text x="198" y="880" text-anchor="middle" class="small" style="font-weight:700">25.000đ</text><rect x="260" y="844" width="108" height="46" rx="10" fill="#fff" stroke="#dfe8f5"/><text x="314" y="863" text-anchor="middle" class="h3" style="font-size:12px">1/2 - 12mm</text><text x="314" y="880" text-anchor="middle" class="small" style="font-weight:700">28.000đ</text><rect x="376" y="844" width="42" height="46" rx="10" class="pill"/><text x="397" y="872" text-anchor="middle" class="h3 blueT">+7</text><text x="28" y="908" class="price">25.000đ</text><text x="126" y="908" class="small greenT">● Còn hàng</text><rect x="272" y="892" width="124" height="32" rx="9" fill="url(#blue)"/><text x="334" y="913" text-anchor="middle" style="font:700 11px Arial;fill:#fff">Xem tại shop ↗</text>
-<rect x="18" y="932" width="394" height="154" rx="16" class="card"/><circle cx="48" cy="962" r="18" fill="#ffb000"/><text x="42" y="968" class="h3" style="fill:#fff">S</text><text x="76" y="956" class="h3">Linh Kiện 24h</text><text x="76" y="976" class="small">⌖ Hà Nội</text><text x="28" y="1004" class="small">Phân loại của shop</text><rect x="28" y="1012" width="108" height="46" rx="10" fill="#edf5ff" stroke="#0b72ff"/><text x="82" y="1031" text-anchor="middle" class="h3 blueT" style="font-size:12px">Bộ 8 món</text><text x="82" y="1048" text-anchor="middle" class="small blueT" style="font-weight:700">120.000đ</text><rect x="144" y="1012" width="108" height="46" rx="10" fill="#fff" stroke="#dfe8f5"/><text x="198" y="1031" text-anchor="middle" class="h3" style="font-size:12px">Bộ 10 món</text><text x="198" y="1048" text-anchor="middle" class="small" style="font-weight:700">150.000đ</text><rect x="260" y="1012" width="108" height="46" rx="10" fill="#fff" stroke="#dfe8f5"/><text x="314" y="1031" text-anchor="middle" class="h3" style="font-size:12px">Bộ 13 món</text><text x="314" y="1048" text-anchor="middle" class="small" style="font-weight:700">180.000đ</text><rect x="376" y="1012" width="42" height="46" rx="10" class="pill"/><text x="397" y="1040" text-anchor="middle" class="h3 blueT">+2</text><text x="28" y="1076" class="price">120.000đ</text><text x="126" y="1076" class="small greenT">● Còn hàng</text><rect x="272" y="1060" width="124" height="32" rx="9" fill="url(#blue)"/><text x="334" y="1081" text-anchor="middle" style="font:700 11px Arial;fill:#fff">Xem tại shop ↗</text>
+<text x="18" y="708" class="h2 blueT">Nơi bán (12)</text>
+<text x="166" y="708" class="h3">Thông tin</text><text x="250" y="708" class="h3">Đánh giá</text>
+<rect x="18" y="724" width="394" height="38" rx="10" class="card"/><text x="215" y="748" text-anchor="middle" class="body">Giá thấp đến cao⌄</text>
+<rect x="18" y="776" width="394" height="118" rx="16" class="card"/>
+  <rect x="30" y="790" width="40" height="40" rx="11" fill="#ff5b2e"/><text x="50" y="815" text-anchor="middle" style="font:800 14px Arial;fill:#fff">S</text>
+  <text x="82" y="806" class="h3">Vật Tư Quang Hồng</text>
+  <text x="82" y="826" class="small">Hà Nội · 12 phân loại</text>
+  <text x="30" y="858" class="body">Từ</text><text x="58" y="858" class="price">25.000đ</text>
+  <rect x="190" y="842" width="98" height="36" rx="10" class="card"/><text x="239" y="865" text-anchor="middle" class="h3 blueT" style="font-size:12px">Xem phân loại⌄</text>
+  <rect x="298" y="842" width="102" height="36" rx="10" fill="url(#blue)"/><text x="349" y="865" text-anchor="middle" style="font:700 11px Arial;fill:#fff">Xem tại shop ↗</text>
+<rect x="18" y="906" width="394" height="118" rx="16" class="card"/>
+  <rect x="30" y="920" width="40" height="40" rx="11" fill="#ffb000"/><text x="50" y="945" text-anchor="middle" style="font:800 14px Arial;fill:#fff">S</text>
+  <text x="82" y="936" class="h3">Linh Kiện 24h</text>
+  <text x="82" y="956" class="small">Hà Nội · 5 phân loại</text>
+  <text x="30" y="988" class="body">Từ</text><text x="58" y="988" class="price">120.000đ</text>
+  <rect x="190" y="972" width="98" height="36" rx="10" class="card"/><text x="239" y="995" text-anchor="middle" class="h3 blueT" style="font-size:12px">Xem phân loại⌄</text>
+  <rect x="298" y="972" width="102" height="36" rx="10" fill="url(#blue)"/><text x="349" y="995" text-anchor="middle" style="font:700 11px Arial;fill:#fff">Xem tại shop ↗</text>
 </svg>
